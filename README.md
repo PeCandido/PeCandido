@@ -1,7 +1,7 @@
 ## Hi, I'm Pedro Candido!
 - I'm a Software Engineer student and a Mechatronics technician📚
 - Becoming a FullStack programmer👨‍💻
-- 18y - Brazilian 
+- 19y - Brazilian 
 
 ##
 
