@@ -1,6 +1,5 @@
 ## Hi, I'm Pedro Candido!
 - I'm a Software Engineer student and a Mechatronics technician📚
-- Becoming a FullStack programmer👨‍💻
 - 19y - Brazilian 
 
 ##
@@ -21,6 +20,7 @@
   <img align="center" alt="Candido-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Candido-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Candido-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Candido-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ## My Contacts:
@@ -28,7 +28,6 @@
   <a href="https://www.instagram.com/pcandidorr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrocsalvio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-candido-b82b75281" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/pcandidorr/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align="center">
@@ -36,7 +35,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PeCandido}/count.svg"/></p> 
 <br>
 </div>
-
-![Snake animation](https://github.com/PeCandido/PeCandido/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=185aee&height=120&section=footer"/>
