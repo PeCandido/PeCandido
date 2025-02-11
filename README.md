@@ -1,6 +1,6 @@
 ## Hi, I'm Pedro Candido!
 - I'm a Software Engineer student and a Mechatronics technician📚
-- 19y - Brazilian 
+- 20y - Brazilian 
 
 ##
 
