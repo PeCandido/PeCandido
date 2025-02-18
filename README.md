@@ -1,6 +1,12 @@
 ## Hi, I'm Pedro Candido!
 - I'm a Software Engineer student and a Mechatronics technician📚
-- 20y - Brazilian 
+- 20y - Brazilian
+- Becoming a Full-Stack programmer and trying to get my first job in the area💻
+
+## Languages:
+- Portuguese - Native
+- English - Advanced
+- Spanish - Intermediate
 
 ##
 
@@ -25,13 +31,13 @@
   <img align="center" alt="Candido-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Candido-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Candido-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"> 
+  <img align="center" alt="Candido-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> 
 </div>
 
 ## My Contacts:
 <div> 
-  <a href="https://www.instagram.com/pcandidorr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrocsalvio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-candido-b82b75281" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pedro-candido-salvio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=185aee&height=120&section=footer"/>
